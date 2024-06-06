@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-![Views](https://github-views.deno.dev/api/badge/lukassso?style=classic)
+[![Image of https://github.com/lukassso/my-views-counter](https://github.com/lukassso/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/lukassso/my-views-counter)
